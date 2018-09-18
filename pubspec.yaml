@@ -5,4 +5,3 @@ description: String validation and sanitization for Dart.
 homepage: https://github.com/karan/validator.dart
 documentation: https://github.com/karan/validator.dart
 dependencies:
-  unittest: any
